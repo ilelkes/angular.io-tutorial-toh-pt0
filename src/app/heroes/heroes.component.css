@@ -11,7 +11,7 @@
     left: 0;
   }
   .heroes li:hover {
-    
+    width:auto;
   }
   .heroes li.selected {
     background-color: black;
